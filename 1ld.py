@@ -107,4 +107,4 @@ def main():
             st.info("No articles found for the query.")
 
 if __name__ == "__main__":
-    main()st
+    main()
